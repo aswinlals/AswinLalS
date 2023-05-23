@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aswin Lal S</h1>
-<h3 align="center">A passionate Blockchain developer from India</h3>
+<h3 align="center">A passionate Blockchain developer from Earthh !</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 - 🌱 I'm a beginner
-- 🎮 Currently learning JavaScript
+- 🎮 Currently learning JavaScript & Solidity
 - 🧑‍💻 Working towards becoming a blockchain developer
 
 
@@ -29,7 +29,7 @@
 <h3 align="left">Projects:</h3>
 
 - [Coffee website ☕](https://github.com/aswinlals/CoffeeWebsite)
-- 
+- [DoingFreelance](https://github.com/aswinlals/DoingFreelance)
 
 <h3 align="left">Connect with me:</h3>
 
